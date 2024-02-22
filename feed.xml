@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Robb Owen Digital</title>
+  <title>Mohan Raj Digital</title>
   <subtitle>Robb is an independant creative developer from South Wales. He loves helping organisations turn exciting ideas into complex, creative products. Sometimes, he also writes in the third person.</subtitle>
   <link href="https://robbowen.digital/feed.xml" rel="self"/>
   <link href="http://robbowen.digital/"/>
   <updated>Sun Dec 31 2023 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://robbowen.digital/</id>
   <author>
-    <name>Robb Owen</name>
-    <email>hello@robbowen.digital</email>
+    <name>Mohan Raj</name>
+    <email>mohanrajstark@gmail.com</email>
   </author>
   
   <entry>
